@@ -1,6 +1,5 @@
 
-### code for "Physical-Virtual Collaboration Graph Network for Station-Level
-Metro Ridership Prediction
+### code for "Physical-Virtual Collaboration Graph Network for Station-Level Metro Ridership Prediction
 #### 1. requirements
 - python3
 - numpy
