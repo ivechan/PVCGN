@@ -14,7 +14,7 @@ cd data && tar xvf data.tar.gz
 - SHMetro
 ```
 python ggnn_train.py --config
-data/model/ggnn_hz_multigraph_rnn256_global_local_fusion_input.yaml
+data/model/ggnn_sh_multigraph_rnn256_global_local_fusion_input.yaml
 ```
 
 - HZMetro
